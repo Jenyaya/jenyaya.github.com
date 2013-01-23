@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello Kostya!
-tagline: Supporting tagline
+title: Hello Kitty!
+##tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
