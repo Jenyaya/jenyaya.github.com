@@ -9,12 +9,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jenyaya
+title : Kostya
 tagline: Site Tagline
 author :
-  name : Jenyaya
-  email : jenyaya@online.ua
-  github : jenyaya
+  name : Kot
+  email : kot@username.ua
+  github : username
   twitter : username
   feedburner : feedname
 
